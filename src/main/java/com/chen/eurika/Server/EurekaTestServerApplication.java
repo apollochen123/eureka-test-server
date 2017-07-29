@@ -11,5 +11,6 @@ public class EurekaTestServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaTestServerApplication.class, args);
 		System.out.println("1728");
+		System.out.println("1735");
 	}
 }
